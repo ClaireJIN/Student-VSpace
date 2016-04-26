@@ -1,0 +1,186 @@
+
+/* Class = "UILabel"; text = "Current Connection"; ObjectID = "0ON-AH-Azm"; */
+"0ON-AH-Azm.text" = "Current Connection";
+
+/* Class = "UIButton"; normalTitle = "Disconnect Current Connection"; ObjectID = "0Ws-ny-P2f"; */
+"0Ws-ny-P2f.normalTitle" = "Disconnect Current Connection";
+
+/* Class = "UIButton"; normalTitle = "Obisoft"; ObjectID = "27v-18-nsP"; */
+"27v-18-nsP.normalTitle" = "Obisoft";
+
+/* Class = "UILabel"; text = "Campus Network Mode"; ObjectID = "2lZ-JJ-Hdy"; */
+"2lZ-JJ-Hdy.text" = "Campus Network Mode";
+
+/* Class = "UIButton"; normalTitle = "Connect"; ObjectID = "3sB-zz-cqa"; */
+"3sB-zz-cqa.normalTitle" = "Connect";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4AZ-Pp-s7h"; */
+"4AZ-Pp-s7h.text" = "Label";
+
+/* Class = "UILabel"; text = "Remember password"; ObjectID = "6Du-XK-Ksf"; */
+"6Du-XK-Ksf.text" = "Remember password";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6E2-W7-uf1"; */
+"6E2-W7-uf1.text" = "Label";
+
+/* Class = "UILabel"; text = "Please Wait..."; ObjectID = "7uA-Sw-ARt"; */
+"7uA-Sw-ARt.text" = "Please Wait...";
+
+/* Class = "UILabel"; text = "Server Unknown Error"; ObjectID = "8ua-wK-ehl"; */
+"8ua-wK-ehl.text" = "Server Unknown Error";
+
+/* Class = "UILabel"; text = "NEU IPGW"; ObjectID = "93a-hu-ogc"; */
+"93a-hu-ogc.text" = "NEU IPGW";
+
+/* Class = "UILabel"; text = "Server Unknown Error"; ObjectID = "9IE-dm-I79"; */
+"9IE-dm-I79.text" = "Server Unknown Error";
+
+/* Class = "UILabel"; text = "Welcome to VSpace! VSpace is a tool that can do many things! Let's start it!"; ObjectID = "9KW-Xl-S0U"; */
+"9KW-Xl-S0U.text" = "Welcome to VSpace! VSpace is a tool that can do many things! Let's start it!";
+
+/* Class = "UIButton"; normalTitle = "License"; ObjectID = "CFY-D1-BJe"; */
+"CFY-D1-BJe.normalTitle" = "License";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "CxF-N5-Qld"; */
+"CxF-N5-Qld.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Nanhu"; ObjectID = "CzY-72-8uJ"; */
+"CzY-72-8uJ.text" = "Nanhu";
+
+/* Class = "UILabel"; text = "Hunnan"; ObjectID = "DEj-d1-xxH"; */
+"DEj-d1-xxH.text" = "Hunnan";
+
+/* Class = "UIButton"; normalTitle = "Go Back"; ObjectID = "DgK-29-IFQ"; */
+"DgK-29-IFQ.normalTitle" = "Go Back";
+
+/* Class = "UINavigationItem"; title = "校内社团"; ObjectID = "ErA-hs-Wlc"; */
+"ErA-hs-Wlc.title" = "校内社团";
+
+/* Class = "UIButton"; normalTitle = "Go Back"; ObjectID = "FEO-6d-jqd"; */
+"FEO-6d-jqd.normalTitle" = "Go Back";
+
+/* Class = "UILabel"; text = "Save User E-mail and Password (Click to enable)"; ObjectID = "HGi-Ps-YXp"; */
+"HGi-Ps-YXp.text" = "Save User E-mail and Password (Click to enable)";
+
+/* Class = "UILabel"; text = "Sign in your Obisoft account."; ObjectID = "J3L-bo-nk8"; */
+"J3L-bo-nk8.text" = "Sign in your Obisoft account.";
+
+/* Class = "UIButton"; normalTitle = "How To Use"; ObjectID = "JR6-gp-HQd"; */
+"JR6-gp-HQd.normalTitle" = "How To Use";
+
+/* Class = "UIButton"; normalTitle = "Go Back"; ObjectID = "KeE-6h-Xf5"; */
+"KeE-6h-Xf5.normalTitle" = "Go Back";
+
+/* Class = "UILabel"; text = "Satellite Mode"; ObjectID = "Nn1-ah-nog"; */
+"Nn1-ah-nog.text" = "Satellite Mode";
+
+/* Class = "UIButton"; normalTitle = "Log out"; ObjectID = "OT4-fK-RaK"; */
+"OT4-fK-RaK.normalTitle" = "Log out";
+
+/* Class = "UIButton"; normalTitle = "Lost something? Click here!"; ObjectID = "Owo-xx-bvO"; */
+"Owo-xx-bvO.normalTitle" = "Lost something? Click here!";
+
+/* Class = "UIButton"; normalTitle = "Go Back"; ObjectID = "Px9-S3-p4V"; */
+"Px9-S3-p4V.normalTitle" = "Go Back";
+
+/* Class = "UILabel"; text = "Contact Us:"; ObjectID = "QOZ-jv-cgL"; */
+"QOZ-jv-cgL.text" = "Contact Us:";
+
+/* Class = "UILabel"; text = "Remember the account you've got and put it here:"; ObjectID = "ULu-zL-lvN"; */
+"ULu-zL-lvN.text" = "Remember the account you've got and put it here:";
+
+/* Class = "UINavigationItem"; title = "设置"; ObjectID = "Ucp-DQ-mMg"; */
+"Ucp-DQ-mMg.title" = "设置";
+
+/* Class = "UIButton"; normalTitle = "Landing Campus Network"; ObjectID = "VXC-Eh-1oT"; */
+"VXC-Eh-1oT.normalTitle" = "Landing Campus Network";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "WFd-RX-tdr"; */
+"WFd-RX-tdr.text" = "Password";
+
+/* Class = "UILabel"; text = "Account"; ObjectID = "Wox-pd-RdW"; */
+"Wox-pd-RdW.text" = "Account";
+
+/* Class = "UITextField"; placeholder = "User E-mail"; ObjectID = "YWo-uS-kIW"; */
+"YWo-uS-kIW.placeholder" = "User E-mail";
+
+/* Class = "UILabel"; text = "Sign in"; ObjectID = "cWM-Ya-W7B"; */
+"cWM-Ya-W7B.text" = "Sign in";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "dJQ-NV-k8J"; */
+"dJQ-NV-k8J.text" = "Username";
+
+/* Class = "UIButton"; normalTitle = "Manage Account"; ObjectID = "dmr-nM-sVX"; */
+"dmr-nM-sVX.normalTitle" = "Manage Account";
+
+/* Class = "UILabel"; text = "Disconnect when exit"; ObjectID = "ez2-LW-LJj"; */
+"ez2-LW-LJj.text" = "Disconnect when exit";
+
+/* Class = "UILabel"; text = "Please Wait..."; ObjectID = "foB-wB-mtg"; */
+"foB-wB-mtg.text" = "Please Wait...";
+
+/* Class = "UILabel"; text = "Contact Us:"; ObjectID = "gdZ-ca-EaL"; */
+"gdZ-ca-EaL.text" = "Contact Us:";
+
+/* Class = "UILabel"; text = "Server Unknown Error"; ObjectID = "h0e-hc-U4W"; */
+"h0e-hc-U4W.text" = "Server Unknown Error";
+
+/* Class = "UILabel"; text = "Version: 1.9.0"; ObjectID = "kDx-mY-jek"; */
+"kDx-mY-jek.text" = "Version: 1.9.0";
+
+/* Class = "UILabel"; text = "Server Name"; ObjectID = "lBy-Qc-5ic"; */
+"lBy-Qc-5ic.text" = "Server Name";
+
+/* Class = "UIButton"; normalTitle = "Obisoft"; ObjectID = "lHl-Zy-84m"; */
+"lHl-Zy-84m.normalTitle" = "Obisoft";
+
+/* Class = "UILabel"; text = "Please Wait..."; ObjectID = "lZk-bt-Xqg"; */
+"lZk-bt-Xqg.text" = "Please Wait...";
+
+/* Class = "UILabel"; text = "Quick Access"; ObjectID = "lbx-AI-lD7"; */
+"lbx-AI-lD7.text" = "Quick Access";
+
+/* Class = "UILabel"; text = "IPGW Account"; ObjectID = "lp1-mv-Q8S"; */
+"lp1-mv-Q8S.text" = "IPGW Account";
+
+/* Class = "UIButton"; normalTitle = "Go Back"; ObjectID = "qU9-ma-Gj0"; */
+"qU9-ma-Gj0.normalTitle" = "Go Back";
+
+/* Class = "UIButton"; normalTitle = "NEU Campus Network"; ObjectID = "sKf-Vj-1b7"; */
+"sKf-Vj-1b7.normalTitle" = "NEU Campus Network";
+
+/* Class = "UILabel"; text = "QQ Group: 195739831"; ObjectID = "tEQ-C2-m7W"; */
+"tEQ-C2-m7W.text" = "QQ Group: 195739831";
+
+/* Class = "UILabel"; text = "Welcome to VSpace..."; ObjectID = "uAS-AR-bAJ"; */
+"uAS-AR-bAJ.text" = "Welcome to VSpace...";
+
+/* Class = "UILabel"; text = "Nanhu Mode (Click to change)"; ObjectID = "uZm-6b-wXv"; */
+"uZm-6b-wXv.text" = "Nanhu Mode (Click to change)";
+
+/* Class = "UILabel"; text = "Unknown server error"; ObjectID = "v2W-rK-fC4"; */
+"v2W-rK-fC4.text" = "Unknown server error";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "vDB-Rv-5Xs"; */
+"vDB-Rv-5Xs.text" = "Password";
+
+/* Class = "UILabel"; text = "Manage Account"; ObjectID = "vbJ-2e-jmH"; */
+"vbJ-2e-jmH.text" = "Manage Account";
+
+/* Class = "UILabel"; text = "Account"; ObjectID = "vug-Mc-RHg"; */
+"vug-Mc-RHg.text" = "Account";
+
+/* Class = "UINavigationItem"; title = "失物招领"; ObjectID = "wqW-7x-62e"; */
+"wqW-7x-62e.title" = "失物招领";
+
+/* Class = "UILabel"; text = "Settings > General > VPN > Add VPN Configure"; ObjectID = "xth-mD-xMV"; */
+"xth-mD-xMV.text" = "Settings > General > VPN > Add VPN Configure";
+
+/* Class = "UILabel"; text = "Your Grade"; ObjectID = "ypN-EJ-pGE"; */
+"ypN-EJ-pGE.text" = "Your Grade";
+
+/* Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "zjG-nX-GYd"; */
+"zjG-nX-GYd.normalTitle" = "Sign in";
+
+/* Class = "UIButton"; normalTitle = "Disconnect All"; ObjectID = "zzt-Bs-EVV"; */
+"zzt-Bs-EVV.normalTitle" = "Disconnect All";
